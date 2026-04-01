@@ -1,4 +1,6 @@
 # U.S. -Data-Analyst-Job-Market-Dashboard
+![Dashboard Preview](preview.png)
+![Dashboard Preview](preview_2.png)
 ## Overview
 Interactive Power BI dashboard analyzing 939 data analyst job postings 
 pulled from the Adzuna API in March 2026.
