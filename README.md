@@ -19,3 +19,9 @@ Python · Pandas · Adzuna API · Power BI
 - skills_clean.csv — skill frequency table
 - companies_clean.csv — top 30 hiring companies
 
+## Key Findings
+- ETL and Data Modeling are the top demanded skills which are more than SQL or Python alone
+- Median salary for Data Analyst roles is $102,500, with 25% of roles paying $140k+
+- Only 12% of roles are fully remote despite high Candidate demand for flexibility
+- California accounts for the highest job volume, 
+  followed by Texas and Washington
