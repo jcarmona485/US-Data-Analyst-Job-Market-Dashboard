@@ -1,0 +1,288 @@
+id,title,role_bucket,seniority,is_remote_label,skills,salary_mid,state,posted_month,skill,skill_clean
+5679312686,Senior Analyst,Data Analyst,Senior,On-site,sql|r,82919.8,Texas,2026-03,sql,SQL
+5679280191,"Analyst, Real Estate",Data Analyst,Mid,On-site,,81965.95,New York,2026-03,,
+5679131514,Data Analyst,Data Analyst,Mid,On-site,python|r,75782.12,California,2026-03,python,Python
+5679129157,Data Analyst: II,Data Analyst,Mid,On-site,power bi|r,83699.52,Texas,2026-03,power bi,Power BI
+5679128869,Inventory Specialist,Other,Mid,Remote,sql|r,102971.62,California,2026-03,sql,SQL
+5679128851,Senior Manager – AI & Analytics Delivery,Other,Senior,On-site,r|machine learning,254240.84,Pennsylvania,2026-03,machine learning,Machine Learning
+5679124931,Data & Analytics Product | Product Portfolio Operations Manager,Other,Mid,On-site,excel|r,157875.0,Ohio,2026-03,excel,Excel
+5679081777,Data Analyst,Data Analyst,Mid,On-site,excel|r,108160.0,Unknown,2026-03,excel,Excel
+5679080939,Financial & Data Analyst,Data Analyst,Mid,On-site,,82884.39,California,2026-03,,
+5679069098,REMOTE Product Owner Data and Analytics,Other,Mid,Remote,power bi|r|snowflake,83978.25,Wisconsin,2026-03,power bi,Power BI
+5679069098,REMOTE Product Owner Data and Analytics,Other,Mid,Remote,power bi|r|snowflake,83978.25,Wisconsin,2026-03,snowflake,Snowflake
+5678992450,Business Operations Analyst,Data Analyst,Mid,Remote,,72722.5,Massachusetts,2026-03,,
+5678973591,Global Marketing Data & Analytics Analyst,Data Analyst,Mid,On-site,sql|excel|r,111412.69,Florida,2026-03,sql,SQL
+5678973591,Global Marketing Data & Analytics Analyst,Data Analyst,Mid,On-site,sql|excel|r,111412.69,Florida,2026-03,excel,Excel
+5678973386,Global Marketing Data & Analytics Analyst,Data Analyst,Mid,On-site,sql|excel|r,108664.63,Florida,2026-03,sql,SQL
+5678973386,Global Marketing Data & Analytics Analyst,Data Analyst,Mid,On-site,sql|excel|r,108664.63,Florida,2026-03,excel,Excel
+5678972931,Technical Celonis Developer,Other,Mid,On-site,sql|python|etl,113571.97,Ohio,2026-03,sql,SQL
+5678972931,Technical Celonis Developer,Other,Mid,On-site,sql|python|etl,113571.97,Ohio,2026-03,python,Python
+5678972931,Technical Celonis Developer,Other,Mid,On-site,sql|python|etl,113571.97,Ohio,2026-03,etl,ETL
+5678972162,Global Marketing Data & Analytics Analyst,Data Analyst,Mid,On-site,sql|excel|r,119243.05,Florida,2026-03,sql,SQL
+5678972162,Global Marketing Data & Analytics Analyst,Data Analyst,Mid,On-site,sql|excel|r,119243.05,Florida,2026-03,excel,Excel
+5678958025,Epic Clarity Analyst/ SQL Developer,Data Analyst,Mid,On-site,excel|r,82637.66,California,2026-03,excel,Excel
+5678955129,Program Support Specialist,Other,Mid,On-site,excel|r,56041.16,Maryland,2026-03,excel,Excel
+5678954976,"Assistant Vice President, Procurement Analytics & Reporting",BI Analyst,Mid,On-site,excel|r,217000.0,Connecticut,2026-03,excel,Excel
+5678954649,"Business Analyst with ETL background- HHSC, Austin",Data Analyst,Mid,On-site,,132623.67,Texas,2026-03,,
+5678953799,Senior Digital Analyst,Data Analyst,Senior,On-site,bigquery|r|dbt,94117.3,Virginia,2026-03,bigquery,BigQuery
+5678953799,Senior Digital Analyst,Data Analyst,Senior,On-site,bigquery|r|dbt,94117.3,Virginia,2026-03,dbt,dbt
+5678943980,"Application Support Engineer (Tampa, Florida)",Data Engineer,Mid,On-site,r|aws|azure,142659.17,Florida,2026-03,aws,AWS
+5678943980,"Application Support Engineer (Tampa, Florida)",Data Engineer,Mid,On-site,r|aws|azure,142659.17,Florida,2026-03,azure,Azure
+5678943413,Systems Engineer (TS/SCI with Poly Required),Data Engineer,Mid,On-site,excel|r,218011.5,Virginia,2026-03,excel,Excel
+5678941992,"Process Development Engineer III, Data Science",Data Engineer,Mid,On-site,r|machine learning,144600.0,New York,2026-03,machine learning,Machine Learning
+5679129415,"Senior Analyst, IS Business Intelligence",BI Analyst,Senior,On-site,tableau|r,127182.45,California,2026-03,tableau,Tableau
+5679087983,Business Intelligence Analyst,BI Analyst,Mid,On-site,power bi|r,140125.69,Unknown,2026-03,power bi,Power BI
+5678757854,Lead Business Intelligence Analyst,BI Analyst,Senior,Remote,tableau|r,102330.5,Unknown,2026-03,tableau,Tableau
+5678536937,Business Intelligence Analyst,BI Analyst,Mid,On-site,power bi|r,108109.77,Florida,2026-03,power bi,Power BI
+5678497154,Sr. Business Intelligence Analyst,BI Analyst,Senior,On-site,tableau|r,148683.4,California,2026-03,tableau,Tableau
+5677738990,Sr Business Intelligence Analyst,BI Analyst,Mid,On-site,power bi|r,107950.0,Kentucky,2026-03,power bi,Power BI
+5677725790,Business Intelligence Senior Insights Analyst,BI Analyst,Senior,On-site,r|data modeling,147574.19,Wisconsin,2026-03,data modeling,Data Modeling
+5677719822,"Epic Senior Analyst, Business Intelligence",BI Analyst,Senior,On-site,r|aws,109857.18,Tennessee,2026-03,aws,AWS
+5677626884,Enterprise Insights Analyst,Data Analyst,Mid,On-site,sql|python|r|snowflake,119764.45,Utah,2026-03,sql,SQL
+5677626884,Enterprise Insights Analyst,Data Analyst,Mid,On-site,sql|python|r|snowflake,119764.45,Utah,2026-03,python,Python
+5677626884,Enterprise Insights Analyst,Data Analyst,Mid,On-site,sql|python|r|snowflake,119764.45,Utah,2026-03,snowflake,Snowflake
+5673187118,Business Intelligence Analyst II,BI Analyst,Mid,On-site,sql|power bi|r,68557.2,Michigan,2026-03,sql,SQL
+5673187118,Business Intelligence Analyst II,BI Analyst,Mid,On-site,sql|power bi|r,68557.2,Michigan,2026-03,power bi,Power BI
+5672587982,Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote),Data Engineer,Mid,Remote,r|dbt,118044.59,Georgia,2026-03,dbt,dbt
+5672587978,Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote),Data Engineer,Mid,Remote,r|dbt,122044.97,Washington,2026-03,dbt,dbt
+5672587983,Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote),Data Engineer,Mid,Remote,r|dbt,123204.7,Illinois,2026-03,dbt,dbt
+5672587988,Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote),Data Engineer,Mid,Remote,r|dbt,123288.73,Texas,2026-03,dbt,dbt
+5672514330,Sr. Business Intelligence Analyst,BI Analyst,Senior,On-site,power bi|r,145609.73,Illinois,2026-03,power bi,Power BI
+5672227520,Business Intelligence Analyst,BI Analyst,Mid,On-site,power bi|r,54373.39,Indiana,2026-03,power bi,Power BI
+5671941941,Lead Business Intelligence Analyst,BI Analyst,Senior,On-site,r|azure,124007.57,Maryland,2026-03,azure,Azure
+5671474369,Sr Business Intelligence Analyst - ERP (Hybrid),BI Analyst,Mid,On-site,excel|r,159543.52,Texas,2026-03,excel,Excel
+5671275703,Business Intelligence (BI) Analyst,BI Analyst,Mid,On-site,excel|r,63284.82,Arizona,2026-03,excel,Excel
+5671030764,Business Intelligence Analyst,BI Analyst,Mid,On-site,sql|power bi|r,88470.52,Texas,2026-03,sql,SQL
+5671030764,Business Intelligence Analyst,BI Analyst,Mid,On-site,sql|power bi|r,88470.52,Texas,2026-03,power bi,Power BI
+5670819433,Business Intelligence Analyst,BI Analyst,Mid,On-site,excel|r,93173.5,Illinois,2026-03,excel,Excel
+5670792888,Associate BI Developer/ Analyst,BI Analyst,Junior,On-site,r|azure,91500.0,Illinois,2026-03,azure,Azure
+5670752742,Business Intelligence Analyst,BI Analyst,Mid,On-site,excel|r,147157.34,Maryland,2026-03,excel,Excel
+5669725599,Business Intelligence Analyst – Supply Chain,BI Analyst,Mid,Remote,power bi|r,95680.0,Washington,2026-03,power bi,Power BI
+5666045111,Business Intelligence Analyst - Amazon,BI Analyst,Mid,On-site,excel|r,73717.0,Missouri,2026-03,excel,Excel
+5665922582,"Business Intelligence Analyst, Level 3 (455-26-28425)",BI Analyst,Mid,On-site,sql|power bi|excel|r|snowflake|data modeling,76889.16,Unknown,2026-03,sql,SQL
+5665922582,"Business Intelligence Analyst, Level 3 (455-26-28425)",BI Analyst,Mid,On-site,sql|power bi|excel|r|snowflake|data modeling,76889.16,Unknown,2026-03,power bi,Power BI
+5665922582,"Business Intelligence Analyst, Level 3 (455-26-28425)",BI Analyst,Mid,On-site,sql|power bi|excel|r|snowflake|data modeling,76889.16,Unknown,2026-03,excel,Excel
+5665922582,"Business Intelligence Analyst, Level 3 (455-26-28425)",BI Analyst,Mid,On-site,sql|power bi|excel|r|snowflake|data modeling,76889.16,Unknown,2026-03,snowflake,Snowflake
+5665922582,"Business Intelligence Analyst, Level 3 (455-26-28425)",BI Analyst,Mid,On-site,sql|power bi|excel|r|snowflake|data modeling,76889.16,Unknown,2026-03,data modeling,Data Modeling
+5665748213,Business Intelligence Analyst,BI Analyst,Mid,On-site,,84104.48,Florida,2026-03,,
+5665500621,Business Intelligence & Optimization Analyst,BI Analyst,Mid,On-site,excel|r,93208.98,North Carolina,2026-03,excel,Excel
+5664526917,Business Intelligence Analyst,BI Analyst,Mid,On-site,sql,62875.09,Tennessee,2026-03,sql,SQL
+5664274130,Applications Analyst- Business Intelligence- Level 3,BI Analyst,Mid,On-site,sql|power bi|r,114703.0,Michigan,2026-03,sql,SQL
+5664274130,Applications Analyst- Business Intelligence- Level 3,BI Analyst,Mid,On-site,sql|power bi|r,114703.0,Michigan,2026-03,power bi,Power BI
+5664196232,Business Intelligence Analyst,BI Analyst,Mid,On-site,tableau|r,90480.0,Virginia,2026-03,tableau,Tableau
+5663809667,Data Mart Architect (Remote),Other,Mid,Remote,,106442.0,Unknown,2026-03,,
+5663594717,Business Intelligence Analyst II,BI Analyst,Mid,On-site,,92500.0,Washington,2026-03,,
+5663130767,Associate BI Developer/ Analyst,BI Analyst,Junior,On-site,r|azure,91493.54,Illinois,2026-03,azure,Azure
+5662859635,Business Intelligence Analyst,BI Analyst,Mid,On-site,,75000.0,Colorado,2026-03,,
+5662478325,Business Intelligence Analyst,BI Analyst,Mid,On-site,power bi|r,92600.0,Minnesota,2026-03,power bi,Power BI
+5662140927,"Senior Analyst, IS Business Intelligence - Individual Con",BI Analyst,Senior,On-site,tableau|r,132268.75,California,2026-03,tableau,Tableau
+5661777567,Business Intelligence Analyst,BI Analyst,Mid,On-site,power bi|r,100000.0,Idaho,2026-03,power bi,Power BI
+5661679917,Business Intelligence Analyst,BI Analyst,Mid,On-site,power bi|r,59673.77,Texas,2026-03,power bi,Power BI
+5678851432,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,133600.9,Wisconsin,2026-03,etl,ETL
+5678851432,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,133600.9,Wisconsin,2026-03,data modeling,Data Modeling
+5678849236,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,132989.84,Washington,2026-03,etl,ETL
+5678849236,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,132989.84,Washington,2026-03,data modeling,Data Modeling
+5678846492,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,134772.2,Utah,2026-03,etl,ETL
+5678846492,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,134772.2,Utah,2026-03,data modeling,Data Modeling
+5678776115,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,135009.69,West Virginia,2026-03,etl,ETL
+5678776115,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,135009.69,West Virginia,2026-03,data modeling,Data Modeling
+5678774554,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,128273.01,Vermont,2026-03,etl,ETL
+5678774554,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,128273.01,Vermont,2026-03,data modeling,Data Modeling
+5678752116,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,139495.81,Missouri,2026-03,spark,Spark
+5678752116,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,139495.81,Missouri,2026-03,azure,Azure
+5678752134,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,139449.94,Missouri,2026-03,etl,ETL
+5678752134,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,139449.94,Missouri,2026-03,data modeling,Data Modeling
+5678751752,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,138055.11,New Jersey,2026-03,etl,ETL
+5678751752,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,138055.11,New Jersey,2026-03,data modeling,Data Modeling
+5678751169,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,141965.38,Kentucky,2026-03,etl,ETL
+5678751169,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,141965.38,Kentucky,2026-03,data modeling,Data Modeling
+5678750503,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,120030.06,Mississippi,2026-03,etl,ETL
+5678750503,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,120030.06,Mississippi,2026-03,data modeling,Data Modeling
+5678750245,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,162207.03,Nebraska,2026-03,etl,ETL
+5678750245,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,162207.03,Nebraska,2026-03,data modeling,Data Modeling
+5678750176,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,133529.58,Kansas,2026-03,etl,ETL
+5678750176,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,133529.58,Kansas,2026-03,data modeling,Data Modeling
+5678750095,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,193617.03,New Hampshire,2026-03,etl,ETL
+5678750095,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,193617.03,New Hampshire,2026-03,data modeling,Data Modeling
+5678749954,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,137896.55,Nevada,2026-03,etl,ETL
+5678749954,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,137896.55,Nevada,2026-03,data modeling,Data Modeling
+5678745799,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,197334.5,South Dakota,2026-03,etl,ETL
+5678745799,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,197334.5,South Dakota,2026-03,data modeling,Data Modeling
+5678744184,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,134713.73,Rhode Island,2026-03,etl,ETL
+5678744184,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,134713.73,Rhode Island,2026-03,data modeling,Data Modeling
+5678732247,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,129268.09,Idaho,2026-03,etl,ETL
+5678732247,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,129268.09,Idaho,2026-03,data modeling,Data Modeling
+5678732008,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,125447.44,North Dakota,2026-03,etl,ETL
+5678732008,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,125447.44,North Dakota,2026-03,data modeling,Data Modeling
+5678731980,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,165145.58,Delaware,2026-03,etl,ETL
+5678731980,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,165145.58,Delaware,2026-03,data modeling,Data Modeling
+5678731886,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,133433.84,Washington,2026-03,etl,ETL
+5678731886,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,133433.84,Washington,2026-03,data modeling,Data Modeling
+5678731705,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,150723.53,Alaska,2026-03,etl,ETL
+5678731705,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,150723.53,Alaska,2026-03,data modeling,Data Modeling
+5678725926,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,146986.38,New York,2026-03,etl,ETL
+5678725926,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,146986.38,New York,2026-03,data modeling,Data Modeling
+5678715266,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,151570.81,Wyoming,2026-03,etl,ETL
+5678715266,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,151570.81,Wyoming,2026-03,data modeling,Data Modeling
+5678713637,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,161918.02,Ohio,2026-03,etl,ETL
+5678713637,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,161918.02,Ohio,2026-03,data modeling,Data Modeling
+5678710677,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,146421.84,North Carolina,2026-03,etl,ETL
+5678710677,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,146421.84,North Carolina,2026-03,data modeling,Data Modeling
+5678710495,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,91370.33,North Carolina,2026-03,spark,Spark
+5678710495,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,91370.33,North Carolina,2026-03,azure,Azure
+5678710482,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,184245.5,Georgia,2026-03,etl,ETL
+5678710482,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,184245.5,Georgia,2026-03,data modeling,Data Modeling
+5678709956,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,135632.1,Tennessee,2026-03,etl,ETL
+5678709956,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,135632.1,Tennessee,2026-03,data modeling,Data Modeling
+5678709948,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,96493.23,Tennessee,2026-03,spark,Spark
+5678709948,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,96493.23,Tennessee,2026-03,azure,Azure
+5678705053,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,128359.77,Minnesota,2026-03,etl,ETL
+5678705053,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,128359.77,Minnesota,2026-03,data modeling,Data Modeling
+5678703850,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,123492.43,Massachusetts,2026-03,etl,ETL
+5678703850,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,123492.43,Massachusetts,2026-03,data modeling,Data Modeling
+5678702607,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,137675.8,Michigan,2026-03,etl,ETL
+5678702607,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,137675.8,Michigan,2026-03,data modeling,Data Modeling
+5678697379,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,116571.12,Alabama,2026-03,etl,ETL
+5678697379,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,116571.12,Alabama,2026-03,data modeling,Data Modeling
+5678697085,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,128905.05,Oklahoma,2026-03,etl,ETL
+5678697085,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,128905.05,Oklahoma,2026-03,data modeling,Data Modeling
+5678695778,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,160687.53,Indiana,2026-03,etl,ETL
+5678695778,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,160687.53,Indiana,2026-03,data modeling,Data Modeling
+5678694771,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,124609.57,Arizona,2026-03,etl,ETL
+5678694771,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,124609.57,Arizona,2026-03,data modeling,Data Modeling
+5678694409,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,154226.62,Colorado,2026-03,etl,ETL
+5678694409,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,154226.62,Colorado,2026-03,data modeling,Data Modeling
+5678691352,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,127755.86,Louisiana,2026-03,etl,ETL
+5678691352,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,127755.86,Louisiana,2026-03,data modeling,Data Modeling
+5678690620,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,125212.81,Oregon,2026-03,etl,ETL
+5678690620,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,125212.81,Oregon,2026-03,data modeling,Data Modeling
+5678689030,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,196745.03,Arkansas,2026-03,etl,ETL
+5678689030,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,196745.03,Arkansas,2026-03,data modeling,Data Modeling
+5678688108,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,141549.94,Connecticut,2026-03,etl,ETL
+5678688108,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,141549.94,Connecticut,2026-03,data modeling,Data Modeling
+5678661962,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,130301.59,South Carolina,2026-03,etl,ETL
+5678661962,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,130301.59,South Carolina,2026-03,data modeling,Data Modeling
+5678658481,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,127109.21,Iowa,2026-03,etl,ETL
+5678658481,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,127109.21,Iowa,2026-03,data modeling,Data Modeling
+5678655682,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,175828.9,Maine,2026-03,etl,ETL
+5678655682,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,175828.9,Maine,2026-03,data modeling,Data Modeling
+5678655681,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,121115.42,Hawaii,2026-03,etl,ETL
+5678655681,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,121115.42,Hawaii,2026-03,data modeling,Data Modeling
+5678655638,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,133608.03,Montana,2026-03,etl,ETL
+5678655638,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,133608.03,Montana,2026-03,data modeling,Data Modeling
+5678582308,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,127428.42,Pennsylvania,2026-03,etl,ETL
+5678582308,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,127428.42,Pennsylvania,2026-03,data modeling,Data Modeling
+5678525671,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,130243.07,Florida,2026-03,etl,ETL
+5678525671,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,130243.07,Florida,2026-03,data modeling,Data Modeling
+5678508199,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,130042.38,Virginia,2026-03,etl,ETL
+5678508199,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,130042.38,Virginia,2026-03,data modeling,Data Modeling
+5678505866,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,131675.95,Illinois,2026-03,etl,ETL
+5678505866,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,131675.95,Illinois,2026-03,data modeling,Data Modeling
+5678503961,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,156055.33,Texas,2026-03,etl,ETL
+5678503961,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,156055.33,Texas,2026-03,data modeling,Data Modeling
+5678503883,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,111023.11,Texas,2026-03,spark,Spark
+5678503883,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,111023.11,Texas,2026-03,azure,Azure
+5678503885,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,113710.16,Texas,2026-03,spark,Spark
+5678503885,Databricks Data Engineer - Remote,Data Engineer,Mid,Remote,r|spark|azure,113710.16,Texas,2026-03,azure,Azure
+5678501401,Business Analytics Practice Lead - Remote (PA),Other,Senior,Remote,,184079.88,Pennsylvania,2026-03,,
+5678492561,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,161019.95,Maryland,2026-03,etl,ETL
+5678492561,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,161019.95,Maryland,2026-03,data modeling,Data Modeling
+5678491638,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,180076.86,New Mexico,2026-03,etl,ETL
+5678491638,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,180076.86,New Mexico,2026-03,data modeling,Data Modeling
+5678086156,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,162000.0,Unknown,2026-03,etl,ETL
+5678086156,DW/BI Architect (Remote),BI Analyst,Mid,Remote,r|etl|data modeling,162000.0,Unknown,2026-03,data modeling,Data Modeling
+5677864132,Senior Data Engineer I,Data Engineer,Senior,On-site,sql|r,105965.77,Iowa,2026-03,sql,SQL
+5677831223,"BI and Data Analyst, Senior",BI Analyst,Senior,On-site,power bi|r|etl,92427.72,Pennsylvania,2026-03,power bi,Power BI
+5677831223,"BI and Data Analyst, Senior",BI Analyst,Senior,On-site,power bi|r|etl,92427.72,Pennsylvania,2026-03,etl,ETL
+5677814596,Senior Data Engineer I,Data Engineer,Senior,On-site,sql|r,120861.69,Missouri,2026-03,sql,SQL
+5677807517,Director of Business Intelligence (26-27),BI Analyst,Mid,On-site,power bi|excel|r,117364.12,Texas,2026-03,power bi,Power BI
+5677807517,Director of Business Intelligence (26-27),BI Analyst,Mid,On-site,power bi|excel|r,117364.12,Texas,2026-03,excel,Excel
+5677725434,Data Analyst / BI Engineer,Data Engineer,Mid,On-site,sql|python|r,107056.7,Washington,2026-03,sql,SQL
+5677725434,Data Analyst / BI Engineer,Data Engineer,Mid,On-site,sql|python|r,107056.7,Washington,2026-03,python,Python
+5677694762,Enterprise Data & AI Platform Architect,Other,Mid,On-site,excel|r,97500.0,Arizona,2026-03,excel,Excel
+5677685596,Senior Data Engineer I,Data Engineer,Senior,On-site,sql|r,104861.25,Wisconsin,2026-03,sql,SQL
+5677626783,BI Analyst & Tableau Developer,BI Analyst,Mid,On-site,tableau|r,96288.33,Texas,2026-03,tableau,Tableau
+5675032951,Data Warehouse Analyst Seniors – Power BI/Tableau,BI Analyst,Senior,On-site,power bi|tableau|r,89883.88,Unknown,2026-03,power bi,Power BI
+5675032951,Data Warehouse Analyst Seniors – Power BI/Tableau,BI Analyst,Senior,On-site,power bi|tableau|r,89883.88,Unknown,2026-03,tableau,Tableau
+5675032449,Sr. Category Insights Analyst (Power BI),BI Analyst,Senior,On-site,power bi|r,131677.45,Texas,2026-03,power bi,Power BI
+5674960669,Data & Analytics Cloud Engineering Implementation Manager,Data Engineer,Mid,On-site,excel|r,156400.0,Illinois,2026-03,excel,Excel
+5674901413,"Data Solutions Architect - Financial Data, Compliance & Business Intelligence",BI Analyst,Mid,On-site,excel|r,168600.0,Illinois,2026-03,excel,Excel
+5674895981,BI Analyst,BI Analyst,Mid,On-site,power bi|r,86426.55,Washington,2026-03,power bi,Power BI
+5674866839,"Lead Data Engineer – Financial Data, Compliance & Business Intelligence",Data Engineer,Senior,On-site,excel|r,168600.0,Illinois,2026-03,excel,Excel
+5674801968,Data Analyst (Power BI),BI Analyst,Mid,On-site,power bi|r,66876.46,Kentucky,2026-03,power bi,Power BI
+5674798711,Sr. Category Insights Analyst (Power BI),BI Analyst,Senior,On-site,power bi|r,54561.23,Missouri,2026-03,power bi,Power BI
+5674753311,INTL - Remote Marketing Data Analyst/ Power BI Developer - India,BI Analyst,Mid,Remote,power bi|r,120038.99,Arizona,2026-03,power bi,Power BI
+5674735374,Sr. Category Insights Analyst (Power BI),BI Analyst,Senior,On-site,power bi|r,64530.85,Arkansas,2026-03,power bi,Power BI
+5674682865,BI Data Analyst,BI Analyst,Mid,On-site,sql|power bi|tableau|python|r|azure,63369.38,Illinois,2026-03,sql,SQL
+5674682865,BI Data Analyst,BI Analyst,Mid,On-site,sql|power bi|tableau|python|r|azure,63369.38,Illinois,2026-03,power bi,Power BI
+5674682865,BI Data Analyst,BI Analyst,Mid,On-site,sql|power bi|tableau|python|r|azure,63369.38,Illinois,2026-03,tableau,Tableau
+5674682865,BI Data Analyst,BI Analyst,Mid,On-site,sql|power bi|tableau|python|r|azure,63369.38,Illinois,2026-03,python,Python
+5674682865,BI Data Analyst,BI Analyst,Mid,On-site,sql|power bi|tableau|python|r|azure,63369.38,Illinois,2026-03,azure,Azure
+5674674890,Sr. Category Insights Analyst (Power BI),BI Analyst,Senior,On-site,power bi|r,64477.15,Texas,2026-03,power bi,Power BI
+5674674529,Sr. Category Insights Analyst (Power BI),BI Analyst,Senior,On-site,power bi|r,54596.52,Florida,2026-03,power bi,Power BI
+5674311435,"Power BI & SQL Analyst -Report Developer (Local, AZ Only)",BI Analyst,Mid,Remote,sql|power bi|r,95548.58,Arizona,2026-03,sql,SQL
+5674311435,"Power BI & SQL Analyst -Report Developer (Local, AZ Only)",BI Analyst,Mid,Remote,sql|power bi|r,95548.58,Arizona,2026-03,power bi,Power BI
+5674161390,Data Analyst / Power BI Developer,BI Analyst,Mid,Remote,power bi|r|azure,91520.0,Washington,2026-03,power bi,Power BI
+5674161390,Data Analyst / Power BI Developer,BI Analyst,Mid,Remote,power bi|r|azure,91520.0,Washington,2026-03,azure,Azure
+5674160426,Staff Accountant,Other,Senior,On-site,excel|r,87152.92,Illinois,2026-03,excel,Excel
+5673907063,Technical Business Analyst – Healthcare Data Reporting,Data Analyst,Mid,On-site,excel|r,94475.04,Texas,2026-03,excel,Excel
+5673730227,Azure Devops Engineer,Data Engineer,Mid,On-site,r|azure,89539.43,Michigan,2026-03,azure,Azure
+5673701849,"INTL - REMOTE Data Analyst/ Power BI Developer (Customer, Digital & Loyalty)- India",BI Analyst,Mid,Remote,power bi|r,133509.33,Arizona,2026-03,power bi,Power BI
+5673289582,Business Analytics Analyst,Data Analyst,Mid,On-site,sql|r,90000.0,Illinois,2026-03,sql,SQL
+5671972881,BI Data Analyst,BI Analyst,Mid,On-site,power bi|r,119851.97,Texas,2026-03,power bi,Power BI
+5671949104,Data Analyst,Data Analyst,Mid,On-site,power bi|r,83442.66,Missouri,2026-03,power bi,Power BI
+5671589620,Sr. Data Analyst (Tableau/Power BI & Informatica ETL),BI Analyst,Senior,On-site,sql|power bi|tableau|r|snowflake|etl,89931.8,Texas,2026-03,sql,SQL
+5671589620,Sr. Data Analyst (Tableau/Power BI & Informatica ETL),BI Analyst,Senior,On-site,sql|power bi|tableau|r|snowflake|etl,89931.8,Texas,2026-03,power bi,Power BI
+5671589620,Sr. Data Analyst (Tableau/Power BI & Informatica ETL),BI Analyst,Senior,On-site,sql|power bi|tableau|r|snowflake|etl,89931.8,Texas,2026-03,tableau,Tableau
+5671589620,Sr. Data Analyst (Tableau/Power BI & Informatica ETL),BI Analyst,Senior,On-site,sql|power bi|tableau|r|snowflake|etl,89931.8,Texas,2026-03,snowflake,Snowflake
+5671589620,Sr. Data Analyst (Tableau/Power BI & Informatica ETL),BI Analyst,Senior,On-site,sql|power bi|tableau|r|snowflake|etl,89931.8,Texas,2026-03,etl,ETL
+5671541608,Data Analyst,Data Analyst,Mid,On-site,power bi|r,56504.24,Missouri,2026-03,power bi,Power BI
+5671487702,Epic Business Intelligence Data Engineer â€“ Cogito Reporting,Data Engineer,Mid,On-site,sql|r,114272.4,Texas,2026-03,sql,SQL
+5671474408,Enterprise Data Governance Analyst II,Data Analyst,Mid,On-site,excel|r,123253.82,Texas,2026-03,excel,Excel
+5671380670,Sr. Category Insights Analyst (Power BI),BI Analyst,Senior,On-site,power bi|r,133376.6,Texas,2026-03,power bi,Power BI
+5671303340,Business Analyst with Power BI,BI Analyst,Mid,On-site,power bi|r,95038.3,Texas,2026-03,power bi,Power BI
+5678922133,Financial Analyst / Manager (Korean bilingual),BI Analyst,Mid,On-site,,63808.55,New Jersey,2026-03,,
+5678891526,ESY ABA Behavior Technician (Behavior Therapist)-Preschool,Other,Mid,On-site,r|aws,37954.66,Massachusetts,2026-03,aws,AWS
+5678858032,Reporting Analyst I,Data Analyst,Mid,On-site,,76435.14,Colorado,2026-03,,
+5678850032,Design Methodology Writing Skills Developing Developer,Other,Mid,On-site,excel|r,81185.51,Wisconsin,2026-03,excel,Excel
+5678847080,"Data Engineer, AWS Marketing D:SE",Data Engineer,Mid,On-site,r|aws,130832.66,Washington,2026-03,aws,AWS
+5678796111,Data Analyst (Reporting & Visualization – Contract),Data Analyst,Mid,On-site,sql|power bi|tableau|r,61031.54,Massachusetts,2026-03,sql,SQL
+5678796111,Data Analyst (Reporting & Visualization – Contract),Data Analyst,Mid,On-site,sql|power bi|tableau|r,61031.54,Massachusetts,2026-03,power bi,Power BI
+5678796111,Data Analyst (Reporting & Visualization – Contract),Data Analyst,Mid,On-site,sql|power bi|tableau|r,61031.54,Massachusetts,2026-03,tableau,Tableau
+5678775692,"Senior Systems Analyst, Oracle HCM (Full Time, Day)",Data Analyst,Senior,On-site,,132790.11,California,2026-03,,
+5678753021,Business Systems Analyst Team Lead,Data Analyst,Senior,On-site,,126434.23,Missouri,2026-03,,
+5678714209,Data Analyst,Data Analyst,Mid,On-site,power bi|excel|r,119347.26,Georgia,2026-03,power bi,Power BI
+5678714209,Data Analyst,Data Analyst,Mid,On-site,power bi|excel|r,119347.26,Georgia,2026-03,excel,Excel
+5678702059,Financial Analyst,Data Analyst,Mid,Remote,excel|r,66309.66,Unknown,2026-03,excel,Excel
+5678674781,"Senior Analyst, Financial Controls & Reporting",Data Analyst,Senior,On-site,,88629.71,Texas,2026-03,,
+5678674213,Financial & Data Analyst,Data Analyst,Mid,On-site,,74359.89,Tennessee,2026-03,,
+5678668362,Reporting Specialist,BI Analyst,Mid,On-site,excel|r,67460.91,Washington,2026-03,excel,Excel
+5678564761,Reporting Analyst,Data Analyst,Mid,On-site,,55758.4,Texas,2026-03,,
+5678527991,Revenue Cycle Analyst,Data Analyst,Mid,On-site,excel|r,59167.05,Texas,2026-03,excel,Excel
+5678080696,Marketing Analyst,Data Analyst,Mid,On-site,,78835.13,Tennessee,2026-03,,
+5677903252,"Data Engineer, AWS Marketing D:SE",Data Engineer,Mid,On-site,r|aws,131385.44,Washington,2026-03,aws,AWS
+5677851261,Data Analyst/Report Writer,Data Analyst,Mid,On-site,sql|power bi|r,62156.62,Unknown,2026-03,sql,SQL
+5677851261,Data Analyst/Report Writer,Data Analyst,Mid,On-site,sql|power bi|r,62156.62,Unknown,2026-03,power bi,Power BI
+5677814724,Corporate Reporting Specialist - Chief Accounting Office - Firstbank Pr,BI Analyst,Mid,On-site,excel|r,100672.17,Unknown,2026-03,excel,Excel
+5677795235,"Director, Client Engagement",Other,Mid,On-site,excel|r,149136.98,Tennessee,2026-03,excel,Excel
+5677791553,Dock&Door Sales Coordinator,Other,Mid,On-site,excel|r,36184.89,Georgia,2026-03,excel,Excel
+5677750437,Planning & Data Analyst,Data Analyst,Mid,On-site,excel|r,73000.0,Arizona,2026-03,excel,Excel
+5679345284,Quality and Project Analyst,Data Analyst,Mid,On-site,,64887.73,Washington,2026-03,,
+5679343164,Cardiac Catheterization Radiologic Technologist LA/OC/DOWNEY PD,Other,Mid,On-site,r|aws,111733.6,California,2026-03,aws,AWS
+5679341620,Power BI Developer,BI Analyst,Mid,On-site,power bi|r,83058.7,Unknown,2026-03,power bi,Power BI
+5679337500,"Respiratory Therapist, Registered",Other,Mid,On-site,,75169.44,Arkansas,2026-03,,
+5679331204,Senior Accountant,Other,Senior,On-site,excel|r,85519.82,Virginia,2026-03,excel,Excel
+5679313498,Bookkeeper / Office Manager - Jenison Area,Other,Mid,On-site,excel|r,55375.9,Michigan,2026-03,excel,Excel
+5679313223,UWD - Call Center Representative - Confirmation Specialist,Other,Mid,On-site,excel|r,37789.24,Ohio,2026-03,excel,Excel
+5679313038,MDS Coordinator,Other,Mid,On-site,excel|r,98254.23,Texas,2026-03,excel,Excel
+5679312949,Sales Commission and Revenue Ops Analyst,Data Analyst,Mid,On-site,excel|r,64835.46,Colorado,2026-03,excel,Excel
+5679312895,Medical Education Research Manager,Other,Mid,On-site,excel|r,91536.91,Virginia,2026-03,excel,Excel
+5679264249,Power BI Engineer,Data Engineer,Mid,On-site,r|spark,87384.21,Unknown,2026-03,spark,Spark
+5679264248,Sr. Program Analyst - ITSM (VA ESOM),Data Analyst,Senior,On-site,r|spark,85197.7,Unknown,2026-03,spark,Spark
+5679263464,General Education Teacher,Other,Mid,On-site,excel|r,91904.38,New York,2026-03,excel,Excel
+5679257407,Systems & Operations Manager - Multifamily,Other,Mid,On-site,excel|r,84161.61,Texas,2026-03,excel,Excel
+5679256922,Clinical Research Coordinator I- Winship Cancer Institute,Other,Mid,On-site,excel|r,62954.23,Georgia,2026-03,excel,Excel
+5679256917,Clinical Research Data Coordinator II- Winship Cancer Institute,Other,Mid,On-site,excel|r,66119.14,Georgia,2026-03,excel,Excel
+5679256920,"The Carter Center: Sr. Associate Director, Development Systems, Development",Other,Senior,On-site,excel|r,86247.22,Georgia,2026-03,excel,Excel
+5679256903,"Manager, Language Access Services",Other,Mid,On-site,excel|r,95243.0,Georgia,2026-03,excel,Excel
+5679256144,Customer Service Representative,Other,Mid,On-site,excel|r,47638.23,New York,2026-03,excel,Excel
